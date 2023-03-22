@@ -8,7 +8,7 @@
 # mv kftt-data-1.0 ./corpus
 
 # download sentencepiece model
-wget http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/release/1.0/spm_models/en-ja_spm.tar.gz
+wget http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/release/3.0/spm_models/en-ja_spm.tar.gz
 tar xzvf en-ja_spm.tar.gz
 rm en-ja_spm.tar.gz
 mv enja_spm_models ./corpus
