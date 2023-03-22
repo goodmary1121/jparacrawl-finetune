@@ -8,9 +8,9 @@ EXP_NAME=decode
 SRC=en
 TRG=ja
 
-TEST_SRC=$PWD/corpus/test.$SRC
-TEST_TRG=$PWD/corpus/test.$TRG
-TEST_TRG_RAW=$PWD/corpus/test.current.$TRG
+TEST_SRC=$PWD/corpus/sent/test.$SRC
+TEST_TRG=$PWD/corpus/sent/test.$TRG
+TEST_TRG_RAW=$PWD/corpus/sent/test.current.$TRG
 
 SRC_VOCAB=$PWD/pretrained_model_$SRC$TRG/dict.$SRC.txt
 TRG_VOCAB=$PWD/pretrained_model_$SRC$TRG/dict.$TRG.txt
