@@ -34,6 +34,12 @@ $ cd fairseq
 $ git checkout c81fed46ac7868c6d80206ff71c6f6cfe93aee22
 ```
 
+For version 3.0, 
+```
+$ cd fairseq
+$ git checkout ce961a9fd26aef5130720cb6a171ddd5b51a8961
+```
+
 ### Docker
 We prepared the Docker container that was already installed the requisites.
 Use the following commands to run.
