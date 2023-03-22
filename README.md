@@ -22,7 +22,7 @@ http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/
 ## Requirements
 This example uses the followings.
 - Python 3
-- [PyTorch](https://pytorch.org/)
+- [PyTorch](https://pytorch.org/) (1.8.1+cu111)
 - [fairseq](https://github.com/pytorch/fairseq)
 - [sentencepiece](https://github.com/google/sentencepiece)
 - [MeCab](https://taku910.github.io/mecab/) with IPA dic
